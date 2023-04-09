@@ -1,5 +1,5 @@
 import React from 'react';
-import { TodoProvider } from '../todoContext';
+import { TodoProvider } from '../TodoContext';
 import { AppUI } from './AppUI';
 
 
